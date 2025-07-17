@@ -1,0 +1,6 @@
+package functionaldemo;
+
+public class GreetDemo implements GreetInterface {
+	
+
+}

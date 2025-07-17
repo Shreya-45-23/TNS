@@ -1,0 +1,7 @@
+package functionaldemo;
+
+public class DreetInterface {
+	
+	void greet();
+
+}
