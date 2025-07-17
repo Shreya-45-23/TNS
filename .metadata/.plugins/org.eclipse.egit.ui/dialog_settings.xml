@@ -6,6 +6,7 @@
 		<item value="github.com"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="file://C:\TNS"/>
 		<item value="https://github.com/Shreya-45-23/TNS.git"/>
 		<item value="https://github.com/Shreya-45-23/TNSIF"/>
 	</list>
@@ -25,5 +26,14 @@
 		<list key="C:\Users\PRIYANKA\git\TNS\.git">
 			<item value="empty"/>
 		</list>
+	</section>
+	<section name="GitImportWizard">
+		<section name="GitImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="513"/>
+			<item key="DIALOG_Y_ORIGIN" value="79"/>
+			<item key="DIALOG_WIDTH" value="525"/>
+			<item key="DIALOG_HEIGHT" value="550"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
 	</section>
 </section>

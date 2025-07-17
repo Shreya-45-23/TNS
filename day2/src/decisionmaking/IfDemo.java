@@ -8,7 +8,7 @@ public class IfDemo {
 		int x=3;
 		
 		if(x == 4 )
-			System.out.println("Value of x is 4");
+			System.out.println("Value of x is 4.");
 
 		
 	}
